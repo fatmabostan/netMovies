@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    gap: 24px;
+}
+
+.obje{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.75);
+    border: 1px solid #333;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.5);
+    padding: 10px 30px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    font-weight: 700;
+}
